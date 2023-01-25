@@ -1,0 +1,73 @@
+* {
+    font-family: copperplate;;
+}
+
+body {
+    background-color: #232323;
+    color: #ffffff;
+}
+
+/* TEXT EDITS */
+
+header{
+
+}
+
+h1{
+    height: 1.5em;
+    text-align: center;
+    padding-top: .5em;
+    border-radius: 0.5em;
+    color: #FFF;
+background-color: #232323;
+text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+
+}
+
+h2{
+    text-align: center;
+    padding-bottom: 0.75em;
+    padding-top: 0.75em;
+    color: #FFF;
+background-color: #232323;
+text-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px;
+}
+
+/* SPECIFIC TEXT EDITS ID */
+
+/* #jordans-1-desc{
+
+}
+
+#jordans-2-desc{
+    
+} */
+
+/* IMAGE EDITS */
+
+img{
+    height:50%;
+    width: 50%;
+    border-radius: 0.5em;
+    border-bottom: 1em;
+    border-top: 1em;
+}
+
+/* SPECIFIC PICTURE TAGS */
+
+#jordans-1{
+    /* float: right;
+    border-left: 1em; */
+}
+#jordans-2{
+    /* float: left;
+    border-right: 2em; */
+    border: solid rgb(157, 6, 6);
+}
+
+#logo{
+    /* height: 3%;
+    width: 3%; */
+    height: 20px;
+    width: 22px;
+}
